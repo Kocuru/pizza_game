@@ -1,4 +1,4 @@
-+Pizza game
+Pizza game
 
 Introduction
   This is a game about crazy Chief with pan and a lot of pizza. One of pizza restaurant guess, made a Chief very angry. So the   Crazy Chief had beem climbed to the roof and started to pitch with pizza. 
