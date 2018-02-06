@@ -12,3 +12,4 @@ Installation
 1. Copy a git repository
 2. Install a livevies package
 
+Test
